@@ -1,0 +1,6 @@
+{
+  "name": "Indian Space Guide",
+  "description": "An interactive, beautiful space agency and rocket customizer with a real-time cinematic Three.js 3D flight simulator, mission status telemetry, flight simulation, and educational guides on legendary Indian space programs and Dr. APJ Abdul Kalam's inspiring journey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
